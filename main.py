@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 
 # ================== CONFIGURATION ==================
 
-TELEGRAM_BOT_TOKEN = "7972491178:AAF6YgklFFA-QxeHURh6-LcdhXSWDlyE3as"
+TELEGRAM_BOT_TOKEN = "8539002353:AAFn4RLyjWgmDJARQpTWTF_tWzv2H-Do9pI"
 
 # Mode 1: Secret Key API
 SECRET_KEY_MODE = {
