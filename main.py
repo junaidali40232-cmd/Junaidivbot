@@ -37,8 +37,8 @@ SECRET_KEY_MODE = {
 # Mode 2: IVASMS Login Mode
 IVASMS_MODE = {
     "ENABLED": True,
-    "USERNAME": "junaid20305@gmail.com",
-    "PASSWORD": "Junaidniz2020",
+    "USERNAME": "junaidali40232@gmail.com",
+    "PASSWORD": "Junaidniz1122",
     "BASE_URL": "https://www.ivasms.com",
     "LOGIN_URL": "https://www.ivasms.com/login",
     "INBOX_URL": "https://www.ivasms.com/portal/live/my_sms"
