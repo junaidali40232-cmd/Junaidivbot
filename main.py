@@ -757,7 +757,7 @@ class OTPForwarder:
 
 📨 {message}
 
-👑 @GAURAVZEX"""
+👑 @Junaidniz786"""
 
         sent = 0
         for gid in list(authorized_groups.keys()):
